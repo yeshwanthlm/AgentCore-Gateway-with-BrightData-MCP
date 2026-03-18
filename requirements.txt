@@ -1,0 +1,7 @@
+strands-agents 
+strands-agents-tools 
+boto3 
+mcp-proxy-for-aws 
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+agentcore
