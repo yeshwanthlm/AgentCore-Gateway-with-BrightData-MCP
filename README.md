@@ -4,7 +4,7 @@ A competitive price intelligence agent built on **Amazon Bedrock AgentCore Gatew
 
 ## Architecture:
 
-<img width="1888" height="2093" alt="image" src="https://github.com/user-attachments/assets/a27a5ce9-6cbd-4963-83df-a818fad02223" />
+<img width="1888" height="2093" alt="image" src="https://github.com/user-attachments/assets/f9aa751b-5a2d-425d-b9eb-076964b83082" />
 
 
 ```
