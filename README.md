@@ -2,7 +2,10 @@
 
 A competitive price intelligence agent built on **Amazon Bedrock AgentCore Gateway** and **BrightData's remote MCP server**. The agent scrapes live product pricing across retailers, tracks user-defined price thresholds, and persists preferences across sessions using AgentCore's long-term and short-term memory.
 
-## Architecture
+## Architecture:
+
+<img width="1888" height="2093" alt="image" src="https://github.com/user-attachments/assets/a27a5ce9-6cbd-4963-83df-a818fad02223" />
+
 
 ```
 User
